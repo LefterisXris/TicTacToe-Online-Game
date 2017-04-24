@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (.\Release\) contains files shared from another project (chatclient.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TrilizaC.c
+..\..\..\apps\TrilizaC.c(12): warning C4005: 'ERROR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h(114): note: see previous definition of 'ERROR'
+..\..\..\apps\TrilizaC.c(52): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\apps\TrilizaC.c(57): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+..\..\..\apps\TrilizaC.c(58): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+..\..\..\apps\TrilizaC.c(50): warning C4101: 'c': unreferenced local variable
+..\..\..\apps\TrilizaC.c(215): warning C4018: '<=': signed/unsigned mismatch
+  readln.c
+  Generating Code...
+c:\users\tsita\onedrive\παμακ\μαθήματα\10o εξάμηνο\δίκτυα\εργασία\it1370\apps\trilizac.c(89): warning C4700: uninitialized local variable 'coordDest' used
+  chatclient.vcxproj -> C:\Users\tsita\OneDrive\ΠΑΜΑΚ\Μαθήματα\10o Εξάμηνο\Δίκτυα\Εργασία\it1370\make_win32\Computer Networks and Internets\chatclient\.\Release\TrilizaC.exe
+  chatclient.vcxproj -> .\Release\TrilizaC.pdb (Full PDB)

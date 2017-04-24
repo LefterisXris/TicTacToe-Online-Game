@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (.\Release\) contains files shared from another project (chatserver.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TrilizaS.c
+..\..\..\apps\TrilizaS.c(112): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+..\..\..\apps\TrilizaS.c(112): warning C4024: 'checkMove': different types for formal and actual parameter 3
+..\..\..\apps\TrilizaS.c(125): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+..\..\..\apps\TrilizaS.c(125): warning C4024: 'hasWin': different types for formal and actual parameter 2
+..\..\..\apps\TrilizaS.c(169): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+..\..\..\apps\TrilizaS.c(169): warning C4024: 'checkMove': different types for formal and actual parameter 3
+..\..\..\apps\TrilizaS.c(182): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+..\..\..\apps\TrilizaS.c(182): warning C4024: 'hasWin': different types for formal and actual parameter 2
+..\..\..\apps\TrilizaS.c(212): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+..\..\..\apps\TrilizaS.c(212): warning C4024: 'isDraw': different types for formal and actual parameter 1
+..\..\..\apps\TrilizaS.c(299): warning C4018: '<': signed/unsigned mismatch
+  readln.c
+  Generating Code...
+  chatserver.vcxproj -> C:\Users\tsita\OneDrive\ΠΑΜΑΚ\Μαθήματα\10o Εξάμηνο\Δίκτυα\Εργασία\it1370\make_win32\Computer Networks and Internets\chatserver\.\Release\TrilizaS.exe
+  chatserver.vcxproj -> .\Release\TrilizaS.pdb (Full PDB)

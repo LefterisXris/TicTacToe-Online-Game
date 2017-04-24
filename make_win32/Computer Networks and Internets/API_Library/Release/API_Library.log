@@ -1,0 +1,12 @@
+﻿  appname_to_appnum.c
+  await_contact.c
+  cnaiapi_init.c
+  cname_to_comp.c
+..\..\..\api\cname_to_comp.c(38): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2238): note: see declaration of 'gethostbyname'
+  make_contact.c
+  send_eof.c
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1357,5): warning MSB8012: TargetPath(C:\Users\tsita\Desktop\Diktya\make_win32\Computer Networks and Internets\API_Library\.\Release\API_Library.lib) does not match the Library's OutputFile property value (C:\Users\tsita\Desktop\Diktya\make_win32\Computer Networks and Internets\API_Library\Release\cnaiapi.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1359,5): warning MSB8012: TargetName(API_Library) does not match the Library's OutputFile property value (cnaiapi). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  API_Library.vcxproj -> C:\Users\tsita\Desktop\Diktya\make_win32\Computer Networks and Internets\API_Library\.\Release\API_Library.lib
