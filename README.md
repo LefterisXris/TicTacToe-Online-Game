@@ -43,9 +43,11 @@
 
 # Screenshots
 
-### 1 Initialization
+### 1. Initialization
 ![Initialization](Initialization.png)
-### 2 Some moves
+### 2. Some moves
 ![Moves](Moves.png)
-### 3 Game Over
+### 3. Game Over
 ![Win](Win.png)
+
+Για να συνδεθεί ο Client σε οποιονδήποτε Server θα πρέπει να τροποποιηθεί κατάλληλα το αρχείο triliza.conf ώστε να μπει στην πρώτη γραμμή το όνομα ή η διεύθυνση του Server.
